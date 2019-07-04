@@ -1,10 +1,10 @@
 {
   "name": "bot-discord",
   "version": "1.0.0",
-  "description": super bot",
+  "description": "super bot",
   "main": "Exoty systeme.js",
   "scripts": {
-   "test":echo \"Error: no test specified\" && exite 1"
+   "test":"echo \"Error: no test specified\" && exite 1"
   ),
   "author": "",
   "license": "ISC",
