@@ -5,10 +5,10 @@
   "main": "Exoty systeme.js",
   "scripts": {
    "test":"echo \"Error: no test specified\" && exite 1"
-  ),
+  },
   "author": "",
   "license": "ISC",
-  "dependencies"; {
+  "dependencies": {
    "discord.js": "11.4.2"
   }
 }
